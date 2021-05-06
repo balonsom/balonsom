@@ -18,11 +18,11 @@ module.exports = {
 };
 ```
 <p>
-  <a href="https://www.linkedin.com/in/balonsom/" style="padding-right: 8px">
-    <img align="left" alt="Borja's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/balonsom/">
+    <img align="left" alt="Borja's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://open.spotify.com/user/balonso94">
-    <img align="left" alt="Borja's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    <img align="left" alt="Borja's Spotify" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 </p>
 
