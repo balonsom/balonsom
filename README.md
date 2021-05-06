@@ -1,4 +1,4 @@
-### Hi there! Welcome to Borja Alonso's profile
+### Hi there! Welcome to Borja's profile
 Hi, I'm Borja Alonso-Majagranzas 🙋🏻‍♂️, a pasionate self-taught full-stack web and app developer from Spain.
 
 ```js
