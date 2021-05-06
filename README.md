@@ -6,12 +6,13 @@ const { isOnline } = require('@balonsom/activity');
 
 module.exports = {
   name: 'Borja Alonso-Majagranzas',
+  email: 'balonso@hubenue.com',
   aliases: ['Me', 'balonsom'],
   languages: ['Javascript', 'Typescript', 'HTML', 'PHP', 'CSS', 'Java'],
   dailyKnowledge: ['Node', 'React', 'React Native', 'Electron', 'Mongoose', 'GraphQL', 'Express', 'Laravel'],
   getStatus: async () => {
     const online = await isOnline();
-    return `Borja is currently ${online ? '👀 online' : '😴 offline, try to reach him through balonso@hubenue.com'}`;
+    return `Borja is currently ${online ? '👀 online' : '😴 offline, try to reach him through his email'}.`;
   },
 };
 ```
