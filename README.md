@@ -13,7 +13,7 @@ module.exports = {
   dailyKnowledge: ['Node', 'React', 'React Native', 'Electron', 'Mongoose', 'GraphQL', 'Express', 'Laravel'],
   getStatus: async () => {
     const online = await isOnline();
-    return `Borja is currently ${online ? '👀 online' : '😴 offline, try to reach him through his email'}.`;
+    return `Borja is currently ${online ? '🧑🏻‍💻 online' : '😴 offline, try to reach him through his email'}.`;
   },
 };
 ```
